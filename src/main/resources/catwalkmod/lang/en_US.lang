@@ -1,0 +1,13 @@
+tile.scaffold.name=Catwalk
+tile.cagedLadder.name=Caged Ladder
+item.ropeLight.name=Rope Light
+item.blowtorch.name=Blowtorch
+item.steelGrate.name=Steel Grate
+
+itemGroup.cattab=Catwalks
+
+guide.catwalkSide=Hold shift to jump over side<<nl>>Shift+Right Click with <<catwalkmod:blowtorch>> to open/close<<nl>>Right Click with <<catwalkmod:scaffold.8>> to extend
+guide.catwalkDown=Shift+Right Click with <<catwalkmod:blowtorch>> to open/close
+guide.cagedLadderBottom=Shift+Right Click with <<catwalkmod:blowtorch>> to open/close<<nl>>Right Click with <<catwalkmod:cagedLadder>> to extend
+guide.cagedLadderTop=Right Click with <<catwalkmod:cagedLadder>> to extend
+guide.cagedLadderSide=Shift+Right Click with <<catwalkmod:blowtorch>> to open/close

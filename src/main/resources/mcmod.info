@@ -1,0 +1,16 @@
+[
+{
+  "modid": "catwalkmod",
+  "name": "Catwalks",
+  "description": "A mod that adds catwalks... and stuff... yeah",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheCodeWarrior"],
+  "credits": "Chickenbones for CodeChickenCore's block highlight code.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

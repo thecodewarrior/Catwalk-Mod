@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "catwalkmod",
+  "name": "Catwalks",
+  "description": "A mod that adds catwalks... and stuff... yeah",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["TheCodeWarrior"],
+  "credits": "Chickenbones for CodeChickenCore's block highlight code.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

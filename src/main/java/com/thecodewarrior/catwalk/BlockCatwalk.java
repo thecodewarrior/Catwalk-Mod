@@ -54,10 +54,10 @@ public class BlockCatwalk extends BlockContainerCustomHighlight implements IBloc
 		MovingObjectPosition hit = this.playerHit(world, player, x, y, z);
 		int side = 1;
 		
-		if (hit == null)
-            System.out.println("NULL");
-		else {
-			System.out.println(hit.subHit);
+		if (hit == null) {
+            //System.out.println("NULL");
+		} else {
+			//System.out.println(hit.subHit);
 			side = hit.subHit;
 		}
 		
@@ -83,7 +83,7 @@ public class BlockCatwalk extends BlockContainerCustomHighlight implements IBloc
 				int setX = x;
 			int setY = y;
 			int setZ = z;
-			System.out.println("setting");
+			//System.out.println("setting");
 			switch(side) {
 			case 2:
 				setZ--; break;
@@ -208,7 +208,7 @@ public class BlockCatwalk extends BlockContainerCustomHighlight implements IBloc
 	}
 	
 	public void updateSides(World w, int x, int y, int z) {
-		System.out.println("our coord: " + x + ", " + y + ", " + z);
+		//System.out.println("our coord: " + x + ", " + y + ", " + z);
 		TileEntityCatwalk tile = (TileEntityCatwalk)w.getTileEntity(x, y, z);
 		boolean oldNorth = tile.north,
 				oldSouth = tile.south,

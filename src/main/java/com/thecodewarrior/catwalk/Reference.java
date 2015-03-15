@@ -11,7 +11,7 @@ import com.thecodewarrior.notmine.buildcraft.api.tools.IToolWrench;
 
 public class Reference {
 	public static final String MODID = "catwalkmod";
-    public static final String VERSION = "1.0.1";
+    public static final String VERSION = "1.1.0";
     
     public static final int lightRopeBrightness = 15;
     

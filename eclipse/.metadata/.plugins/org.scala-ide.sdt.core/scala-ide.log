@@ -1,0 +1,2 @@
+2015-03-14 11:05:13,353 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2015-03-14 11:05:13,355 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.

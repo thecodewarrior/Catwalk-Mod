@@ -1,4 +1,6 @@
-The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
+The assetDir is deprecated!  I actually just did all this generalizing stuff just now.. Use runDir instead! runDir set to eclipse/assets/..The assetDir is deprecated!  I actually just did all this generalizing stuff just now.. Use runDir instead! runDir set to eclipse/assets/..
+
+The runDir should be the location where you want MC to be run, usually he parent of the asset dirThe runDir should be the location where you want MC to be run, usually he parent of the asset dir
 
 ****************************
  Powered By MCP:             
@@ -7,32 +9,27 @@ The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
  R4wk, ZeuX, IngisKahn, bspkrs
  MCP Data version : unknown
 ****************************
-:extractMcpData
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava UP-TO-DATE
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:jar
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:extractMcpData UP-TO-DATE
 :getVersionJson
-:extractUserDev
+:extractUserDev UP-TO-DATE
 :genSrgs SKIPPED
-:extractNatives
-:copyNativesLegacy
-:getAssetsIndex
-:getAssets
-:makeStart SKIPPED
-:downloadMcpTools SKIPPED
-:downloadClient SKIPPED
-:downloadServer SKIPPED
-:mergeJars SKIPPED
-:deobfuscateJar SKIPPED
-:decompile SKIPPED
-:processSources SKIPPED
-:remapJar SKIPPED
-:extractMinecraftSrc SKIPPED
-:recompMinecraft SKIPPED
-:repackMinecraft SKIPPED
-:setupDecompWorkspace UP-TO-DATE
-:eclipseClasspath
-:eclipseJdt
-:eclipseProject
-:eclipse
+:reobf
+:assemble
+:check UP-TO-DATE
+:build
 
 BUILD SUCCESSFUL
 
-Total time: 56.97 secs
+Total time: 20.113 secs

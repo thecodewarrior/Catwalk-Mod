@@ -1,0 +1,7 @@
+Caged Ladders
+
+Caged Ladders are ladders that support themselves and can't be fallen out of.
+
+The sides of caged ladders can be toggled on or off by right clicking them with a Blowtorch.
+
+Caged Ladders can be added above or below another by right clicking the small areas in center of the top and bottom of the ladder.

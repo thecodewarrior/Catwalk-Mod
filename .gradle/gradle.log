@@ -14,8 +14,8 @@ The runDir should be the location where you want MC to be run, usually he parent
 :apiClasses UP-TO-DATE
 :sourceMainJava UP-TO-DATE
 :compileJava UP-TO-DATE
-:processResources UP-TO-DATE
-:classes UP-TO-DATE
+:processResources
+:classes
 :jar
 :compileTestJava UP-TO-DATE
 :processTestResources UP-TO-DATE
@@ -32,4 +32,4 @@ The runDir should be the location where you want MC to be run, usually he parent
 
 BUILD SUCCESSFUL
 
-Total time: 20.113 secs
+Total time: 58.88 secs
